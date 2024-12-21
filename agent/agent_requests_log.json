@@ -1,0 +1,43 @@
+[
+  {
+    "endpoint": "/command",
+    "action": "stop",
+    "time": "2024-12-17T03:08:30+03:00"
+  }
+]
+[
+  {
+    "endpoint": "/command",
+    "action": "stop",
+    "time": "2024-12-17T03:08:30+03:00"
+  },
+  {
+    "endpoint": "/command",
+    "action": "start",
+    "time": "2024-12-17T03:12:00+03:00"
+  }
+]
+[
+  {
+    "endpoint": "/command",
+    "action": "stop",
+    "time": "2024-12-17T03:08:30+03:00"
+  },
+  {
+    "endpoint": "/command",
+    "action": "stop",
+    "time": "2024-12-17T03:12:23+03:00"
+  }
+]
+[
+  {
+    "endpoint": "/command",
+    "action": "stop",
+    "time": "2024-12-17T03:08:30+03:00"
+  },
+  {
+    "endpoint": "/command",
+    "action": "stop",
+    "time": "2024-12-17T17:28:12+03:00"
+  }
+]
